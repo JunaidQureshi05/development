@@ -1,0 +1,17 @@
+h1 {
+  color: #3f5c8a;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-weight: 400;
+  font-family: cursive;
+  text-decoration: green wavy underline;
+}
+
+p {
+  background-color: rgb(80, 31, 31);
+  color: white;
+  text-align: right;
+  line-height: 3;
+  font-family: monospace;
+}
